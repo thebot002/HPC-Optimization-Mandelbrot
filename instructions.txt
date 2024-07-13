@@ -1,0 +1,21 @@
+The exam of the course consists in submitting (in group) and discussing (individually) one (and only one) of the following proposals.
+
+1) The three homeworks, maximum grade 25.
+
+2) The parallelisation (again in openMP, MPI and CUDA) of a program TO BE DEFINED. Maximum grade 30 cum laude (30L). 
+The homeworks can be submitted and evaluated up to 3 points to increase the evaluation of this project. 
+
+3) The parallelisation of an algorithm proposed by you. You need to discuss it with me to have the proposal approved.  Same rules as 2)
+
+
+Note: it is possible to achieve 30L also only submitting the parallelisation of the main project (hereafter MP, i.e.  Mandelbrot or the algorithm proposed for 3). 
+The homeworks (hereafter H) can provide you more points only in case you get less than 30L considering only MP. 
+So MP evaluated 25 + H means a final grade of up to 28, MP evaluated 28 + H means a final grade of up to 30L, MP evaluated 30L means you did H for the satisfaction to do them ;)
+
+The time limit is SEPTEMBER 2023.
+
+ Send me report+code at least one week before you want to discuss the project (not August and, in general, holidays) and pass the exam.
+
+Note: a group can be composed by 1 or 2 or 3 students. Groups of 4 students can be considered only if they propose a sufficiently complex project.     
+
+Consider different values for resolution and iteration starting from 1000 to show meaningful scalability and speedup values. 
